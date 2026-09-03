@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "PortefolioDev": "portefolio-ea861"
+  },
+  "targets": {
+    "portefolio-ea861": {
+      "hosting": {
+        "portfolio": [
+          "landry-assoumou"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
